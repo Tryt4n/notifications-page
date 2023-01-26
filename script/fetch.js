@@ -1,4 +1,4 @@
-const URL = "./script/users.json";
+const URL = "./users.json";
 
 const personProfilPicture = document.querySelectorAll("[data-person-profil-picture]");
 const personName = document.querySelectorAll("[data-person-name]");
