@@ -1,7 +1,7 @@
 [
   {
     "name": "Mark Webber",
-    "profileImg": "/app/assets/images/avatar-mark-webber.webp",
+    "profileImg": "/assets/images/avatar-mark-webber.webp",
     "action": "reacted to your recent post",
     "thing": "My first tournament today!",
     "time": 110
@@ -9,14 +9,14 @@
 
   {
     "name": "Angela Gray",
-    "profileImg": "/app/assets/images/avatar-angela-gray.webp",
+    "profileImg": "/assets/images/avatar-angela-gray.webp",
     "action": "followed you",
     "time": 320
   },
 
   {
     "name": "Jacob Thompson",
-    "profileImg": "/app/assets/images/avatar-jacob-thompson.webp",
+    "profileImg": "/assets/images/avatar-jacob-thompson.webp",
     "action": "has joined your group",
     "thing": "Chess Club",
     "time": 90000
@@ -24,7 +24,7 @@
 
   {
     "name": "Rizky Hasanuddin",
-    "profileImg": "/app/assets/images/avatar-rizky-hasanuddin.webp",
+    "profileImg": "/assets/images/avatar-rizky-hasanuddin.webp",
     "action": "sent you a private message",
     "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
     "time": 450000
@@ -32,16 +32,16 @@
 
   {
     "name": "Kimberly Smith",
-    "profileImg": "/app/assets/images/avatar-kimberly-smith.webp",
+    "profileImg": "/assets/images/avatar-kimberly-smith.webp",
     "action": "commented on your picture",
-    "image": "/app/assets/images/image-chess.webp",
+    "image": "/assets/images/image-chess.webp",
     "imageDescription": "Commented chess picture with a person in the background",
     "time": 691200
   },
 
   {
     "name": "Nathan Peterson",
-    "profileImg": "/app/assets/images/avatar-nathan-peterson.webp",
+    "profileImg": "/assets/images/avatar-nathan-peterson.webp",
     "action": "reacted to your recent post",
     "thing": "5 end-game strategies to increase your win rate",
     "time": 1296000
@@ -49,7 +49,7 @@
 
   {
     "name": "Anna Kim",
-    "profileImg": "/app/assets/images/avatar-anna-kim.webp",
+    "profileImg": "/assets/images/avatar-anna-kim.webp",
     "action": "left the group",
     "thing": "Chess Club",
     "time": 1728000
