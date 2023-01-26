@@ -5,6 +5,7 @@ const markAllMessages = document.querySelector("[data-mark-all-btn]");
 const messages = document.querySelectorAll(".messages__message");
 const notificationsCounter = document.querySelector("[data-notifications-counter]");
 
+fetch();
 markAllAsRead();
 toggleReadOrUnread();
 handleCounter();
